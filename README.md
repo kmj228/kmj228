@@ -1,8 +1,7 @@
 <div align="center">
 
 # KIM MIN JAE
-**Backend & Embedded Network Developer**
-2nd-year CS student · Working Developer
+**2nd-year CS student · Working Developer**
 
 </div>
 
