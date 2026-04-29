@@ -1,7 +1,7 @@
 <div align="center">
 
 # KIM MIN JAE
-**2nd-year CS student · Working Developer**
+**Developer · 2nd-year CS student**
 
 </div>
 
