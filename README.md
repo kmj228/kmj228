@@ -1,10 +1,16 @@
+<div align="center">
+
 # KIM MIN JAE
 **Backend & Embedded Network Developer**
 2nd-year CS student · Working Developer
 
+</div>
+
 ---
 
-### 🛠 Tech Stack
+<div align="center">
+  
+### Tech Stack
 
 **Languages**
 
@@ -29,8 +35,6 @@
 
 ---
 
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=stars" />
   <img src="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&hide=stars" />
@@ -39,5 +43,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&title_color=0969da" />
 </picture>
-
 </div>
