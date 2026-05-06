@@ -51,14 +51,8 @@
 
 <br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&v=1"
-  height="165"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kmj228&show_icons=true&hide_border=true" />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&v=1"
-  height="165"
-/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true" />
 
 </div>
