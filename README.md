@@ -51,8 +51,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kmj228&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true" />
 
 </div>
