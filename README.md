@@ -51,8 +51,9 @@
 
 <br/>
 
-![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&v=6)
-
-![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&v=6)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&v=7" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&v=7" height="165"/>
+</p>
 
 </div>
