@@ -51,16 +51,16 @@
 
 <br/>
 
+<!-- Light mode -->
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&theme=default&v=10#gh-light-mode-only" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&theme=default&v=10#gh-light-mode-only" height="165"/>
+</p>
 
-  <!-- Light mode -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&theme=default&v=8#gh-light-mode-only" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&theme=default&v=8#gh-light-mode-only" height="165"/>
-
-  <!-- Dark mode -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&theme=github_dark&v=8#gh-dark-mode-only" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&theme=github_dark&v=8#gh-dark-mode-only" height="165"/>
-
+<!-- Dark mode -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&theme=github_dark&v=10#gh-dark-mode-only" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&theme=github_dark&v=10#gh-dark-mode-only" height="165"/>
 </p>
 
 </div>
