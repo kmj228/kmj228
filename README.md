@@ -3,12 +3,8 @@
 # KIM MIN JAE
 **Developer · 2nd-year CS student**
 
-</div>
-
 ---
 
-<div align="center">
-  
 ### Tech Stack
 
 **Languages**
@@ -53,14 +49,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide=stars" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&hide=stars" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&title_color=0969da" />
-</picture>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kmj228&show_icons=true&hide_border=true&hide=stars&v=1"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj228&layout=compact&hide_border=true&v=1"
+  height="165"
+/>
+
 </div>
